@@ -1,0 +1,2 @@
+# smart-building--
+Smart building with a smart entry door system that can detect any vehicle on the gate and will automatically open the gate also , manual button to open and close the gate from anywhere from the dashboard. And a smart water management  system that can calculate the amount of water flowing through the water supply. Also, email warning  if the user hits the threshold usage limit . All these features will display  in a global dashboard.
